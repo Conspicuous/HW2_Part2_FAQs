@@ -19,7 +19,7 @@ var toggle = function() {
 
         }
 
-
+        
     }
 
     // toggle plus and minus image in h2 elements by adding or removing a class
